@@ -1,16 +1,16 @@
-# opengen
-An open source account generator.
+# Frayd-Gen
+Un génerateur de compte gratuit.
 ## Installation
-`git clone https://github.com/secremecy/opengen.git` or download directly through the GitHub repository.
+`git clone https://github.com/nadabinks/fraud-gen.git` ou installer directement le code.
 ## Requirements
-A web server and PHP.
+Un site web avec PHP.
 ## Features
 * AJAX
-* Easy to use
-* Noob friendly
+* Facile a utiliser
+* L'ami des noob
 ## Preview
 https://i.imgur.com/d39eauy.png
 ## Todo
-Add captcha and API rate limiting to prevent backend spam.
+Ajouter captcha pour eviter les spam.
 ## Donate
-Like what you're seeing? feel free to buy us a cup of coffee via Bitcoin `1G4zsUzBYJM4PCXV1qNrFW5DTrCyZLqoQF` 😎
+Send btc `1G4zsUzBYJM4PCXV1qNrFW5DTrCyZLqoQF` 😎
